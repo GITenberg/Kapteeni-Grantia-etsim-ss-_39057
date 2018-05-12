@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39057#Kapteeni-Grantia-etsim-ss-
 gutenberg_issued: '2012-03-05'
 gutenberg_type: Text
 identifiers:
